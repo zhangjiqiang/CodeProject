@@ -16,6 +16,6 @@
    * 使用 predict.py 预测图像的花卉名称以及该名称的概率
      * 基本用法：python predict.py input checkpoint
      * 选项:
-       * 返回前 KK 个类别：python predict.py input checkpoint --top_k 5
+       * 返回前K个类别：python predict.py input checkpoint --top_k 5
        * 使用类别到真实名称的映射: python predict.py input checkpoint --category_names cat_to_name.json
        * 使用 GPU 进行训练：python predict.py input checkpoint --gpu
