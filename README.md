@@ -4,3 +4,4 @@
  3. Movie_Explore利用pandas,Numpy,matplotlib等工具完成对电影数据集的分析工作
  4. LinearAlgebra-master是一个学习线性代数基本知识的例子
  5. ICA提供一个使用Scikit-learn框架分离混音的例子
+ 6. 利用贝叶斯概率计算公式解决单词纠错代码
